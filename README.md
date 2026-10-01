@@ -2,7 +2,7 @@
 
 A data warehousing and analytics project exploring telecom customer churn with Python, PostgreSQL, SQL OLAP queries, machine-learning models, and a Power BI dashboard.
 
-![Power BI dashboard overview](dashboard/images/dashboard-overview.png)
+![Power BI dashboard overview](dashboard/dashboard-overview.png)
 
 ## Dashboard
 
